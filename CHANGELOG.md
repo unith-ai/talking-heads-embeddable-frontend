@@ -1,12 +1,8 @@
 # Changelog
 
-## New version: v1.2.2
-### gub
+## v1.0.0
 
-bug the fix
+### initial release
 
-## New version: v1.2.0-rc2
-### will it wor this time
-
-changed some things
-see if it wor
+Initial release of the app
+`
