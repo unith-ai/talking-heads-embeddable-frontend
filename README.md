@@ -1,3 +1,9 @@
-![CI STATUS](https://github.com/crowd-media/talking-heads-ui/actions/workflows/lint.yaml/badge.svg)
+# Talking Heads Embeddable UI
 
-Frontend app for the Talking Heads project
+## What it does
+
+With this bundled files you can easily embed the talking heads ui in any website of your choice.
+
+## How to embed in your website
+
+Coming soon...
