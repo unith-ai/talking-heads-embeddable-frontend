@@ -1,0 +1,55 @@
+{
+  "video-component": {
+    "about": {
+      "start": "Esta es una demostración de la tecnología \"Talking Heads\" desarrollada por Crowd Media.",
+      "ttt": "Escribe algo en el chat para que {name} lo repita",
+      "opsp-oc": "Pregunta lo que sea a {name}, y espera su respuesta",
+      "gc": "Escribe una frase o selecciona una opción, y espera una respuesta de {name}.",
+      "end": "Puedes descargar la respuesta presionando el botón de descarga en la esquina superior derecha.",
+      "header": "Sobre Talking Heads"
+    },
+    "title": "Proyecto Talking Heads de Crowd Media",
+    "session-count": "En esta sesión:",
+    "download": "Descargar respuesta",
+    "touch-to-start": "Toca para empezar"
+  },
+  "chat-component": {
+    "suggestions": {
+      "title": "Sugerencias"
+    },
+    "search-bar": {
+      "placeholder": "Escribe para buscar..."
+    },
+    "input-placeholder": "Tu respuesta...",
+    "typing-status": "Tu mensaje se está enviando..."
+  },
+  "microphone-access": {
+    "title": "Permitir acceso a micrófono",
+    "paragraph-1": "Se requiere acceso al micrófono para mejor experiencia de usuario. Debe haber un a ventana \"popup\" o un icono de micrófono en tu navegador pidiendo permiso.",
+    "paragraph-2": "Si no existe dicha opción, puedes buscar informacion sobre como permitir acceso a micrófono",
+    "link": "aquí",
+    "paragraph-3": "Si no permites uso de micrófono, puedes continuar usando la aplicación sin reconocimiento de voz.",
+    "exit": "Continuar sin micrófono"
+  },
+  "login": {
+    "title": "Bienvenidos a la Plataforma Crowd Life!",
+    "description": "Esperamos que os haya gustado la demostración de la plataforma \"Talking Hads\". Trabajamos sin descanso en mejorarla! Por ahora, nuestra plataforma está creciendo mediante invitación.",
+    "username": "Nombre de usuario:",
+    "username-placeholder": "Nombre de usuario o email",
+    "password-placeholder": "Contraseña",
+    "logout": "Salir",
+    "login": "Entrar",
+    "cancel": "Cancelar"
+  },
+  "error": {
+    "description": "Ha habido un error. Por favor, vuelve a probar en unos segundos.",
+    "title": "OOPS..."
+  },
+  "peer-status": {
+    "online": "En línea",
+    "away": "Fuera de línea"
+  },
+  "error-reasons": {
+    "small-video-dimensions": "las dimensiones son demasiado pequeñas para integrar. Por favor, increméntalas y vuelve a probar."
+  }
+}
