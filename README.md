@@ -54,6 +54,7 @@ Then, you will need an html element that will have the id set to `talking-head`.
 <body>
   <div
     id="talking-head"
+    data-api_base="https://talk.crowdmedia.com"
     data-org_id="your org id"
     data-head_id="your head id"
     data-theme="light"
