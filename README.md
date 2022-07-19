@@ -15,7 +15,7 @@ This contains the functional part of the application. You can choose to always u
 The possible bundle names are:
 
 - latest.js
-- <version>.js (you can check the available versions in the changelog)
+- `version`.js (you can check the available versions in the changelog)
 
 #### css bundle
 
@@ -24,7 +24,7 @@ This contains the styling of the aplication. As in the javascript bundle, you ca
 The possible bundle names are:
 
 - latest.css
-- <version>.css (you can check the available versions in the changelog)
+- `version`.css (you can check the available versions in the changelog)
 
 #### microsoft sdk
 
@@ -54,7 +54,6 @@ Then, you will need an html element that will have the id set to `talking-head`.
 <body>
   <div
     id="talking-head"
-    data-api_base="https://talk.crowdmedia.com"
     data-org_id="your org id"
     data-head_id="your head id"
     data-theme="light"
