@@ -60,6 +60,7 @@ Then, you will need an html element that will have the id set to `talking-head`.
     data-language="en-US"
     data-font="Nunito"
     data-time_pressure="true"
+    data-touch_to_start_icon="URL"
   ></div>
 </body>
 ```
@@ -74,3 +75,4 @@ We provide some configuration options, that you can add inside the element conta
 - `data-language`: used for speech recognition and UI elements (default is en-US). If you need a language we do not support, contact us.
 - `data-font`: A font of your choice. Note: you will need to have this font available in your current frontend. (default is Nunito)
 - `data-time_pressure`: choose if you wish to show the counter timer to the user.
+- `data-touch_to_start_icon`: URL of an icon that will replace the default touch to start icon
