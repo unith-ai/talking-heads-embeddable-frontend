@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.3
+
+- Improved the way we communicate to our servers (global API class)
+- Made it easier to change which server we use when we deploy
+
 ## v1.0.2
 
 - Made possible to reconnect to our servers if connection drops, while mantaining the conversation state
