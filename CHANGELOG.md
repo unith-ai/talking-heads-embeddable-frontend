@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.5
+
+- Made possible to use the full UI. Check README.md on instructions
+
 ## v1.0.4
 
 - Made css class names consistent on each build.

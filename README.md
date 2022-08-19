@@ -54,6 +54,7 @@ Then, you will need an html element that will have the id set to `talking-head`.
 <body>
   <div
     id="talking-head"
+    data-embed="true"
     data-org_id="your org id"
     data-head_id="your head id"
     data-theme="light"
@@ -69,6 +70,7 @@ Then, you will need an html element that will have the id set to `talking-head`.
 
 We provide some configuration options, that you can add inside the element containing the id="talking-head".
 
+- `data-embed`: If set to something other "1" or "true", you will be able to access the full UI (default is true)
 - `data-org_id`: Your org id (required)
 - `data-head_id`: Your head id (required)
 - `data-theme`: light or dark (default is light)
