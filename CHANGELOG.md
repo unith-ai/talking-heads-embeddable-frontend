@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.4
+
+- Made css class names consistent on each build.
+
+  **NOTE**: Even though now you can override the default styling in any way you please, we give no guarantee that we won't change the styles or class names without notice in the future.
+
 ## v1.0.3
 
 - Improved the way we communicate to our servers (global API class)
