@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.0.6 (2022-08-22)
+## v1.0.6 (2022-08-22)
 
 - Fixed a bug in which log in was attempted before deciding which server the app should point to
 
