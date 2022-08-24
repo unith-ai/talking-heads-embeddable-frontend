@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.7 (2022-08-24)
+
+- Undid global API class (introduced in version v1.0.3) as it was causing some issues. Changes made in v1.0.4 to v1.0.6 remain
+
 ## v1.0.6 (2022-08-22)
 
 - Fixed a bug in which log in was attempted before deciding which server the app should point to
