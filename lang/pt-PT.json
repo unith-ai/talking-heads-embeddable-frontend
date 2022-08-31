@@ -1,0 +1,59 @@
+{
+  "video-component": {
+    "about": {
+      "start": "Esta é uma prévia da tecnologia das cabeças falantes desenvolvida pela Crowd Media.",
+      "ttt": "Digite qualquer coisa no chat para {nome} repeti-lo.",
+      "opsp-oc": "Pergunte qualquer coisa para {nome}, e aguarde por uma resposta.",
+      "gc": "Digite qualquer frase ou escolha uma opção, e aguarde uma resposta de {nome}.",
+      "end": "Também pode descarregar a resposta, seleccionando o botão de descarga no canto superior direito.",
+      "header": "Sobre"
+    },
+    "title": "Projecto Cabeças Falantes da Crowd Media",
+    "session-count": "Nesta sessão:",
+    "download": "Descarregar resposta",
+    "touch-to-start": "Toque para começar"
+  },
+  "chat-component": {
+    "suggestions": {
+      "title": "Sugestões"
+    },
+    "search-bar": {
+      "placeholder": "Digite para pesquisar…"
+    },
+    "input-placeholder": "Sua resposta…",
+    "typing-status": "Sua mensagem está a ser enviada…"
+  },
+  "microphone-access": {
+    "title": "Permitir o acesso ao microfone",
+    "paragraph-1": "O acesso ao microfone é necessário para uma melhor experiência do utilizador. Deve haver uma janela de pop-up ou um ícone de microfone no seu navegador da web a pedir permissão.",
+    "paragraph-2": "Se não existir tal opção, pode encontrar mais informações sobre como permitir o acesso ao microfone",
+    "link": "aqui",
+    "paragraph-3": "Se não permitir o acesso ao microfone, ainda pode continuar a interagir por texto sem reconhecimento de voz.",
+    "exit": "Continuar sem microfone"
+  },
+  "login": {
+    "title": "Bem-vindo à Plataforma Crowd Life!",
+    "description": "Esperamos que tenha gostado de usar a plataforma Cabeças Falantes Crowd Life. Estamos a trabalhar incansavelmente para a tornar ainda melhor! Quanto a agora, a nossa plataforma Cabeça Falante está a crescer apenas através de convites".,
+    "username": "Nome de utilizador",
+    "username-placeholder": "E-mail ou nome de utilizador",
+    "password-placeholder": "Senha",
+    "logout": "Sair da sessão",
+    "login": "Iniciar a sessão",
+    "cancel": "Cancelar"
+  },
+  "error": {
+    "description": "Houve um erro. Por favor, tente novamente dentro de alguns segundos.",
+    "title": "Ops..."
+  },
+  "peer-status": {
+    "online": "Online agora",
+    "away": "Ausente"
+  },
+  "error-reasons": {
+    "small-video-dimensions": "As dimensões dos vídeos são demasiado pequenas para serem incorporadas. Por favor, aumente as dimensões e tente novamente.",
+    "video-not-found": "Vídeo não encontrado"
+  },
+  "connection-issues": {
+    "low-bandwidth": "Conexão instável"
+  }
+}
