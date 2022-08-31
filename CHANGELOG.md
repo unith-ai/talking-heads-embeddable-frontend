@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.8 (2022-08-30)
+
+- Fixed a bug where the userinput was "default" when sending numbers between 1-3
+
 ## v1.0.6 (2022-08-22)
 
 - Fixed a bug in which log in was attempted before deciding which server the app should point to
