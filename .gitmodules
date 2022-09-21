@@ -1,0 +1,3 @@
+[submodule "ui-lang-files"]
+	path = ui-lang-files
+	url = git@github.com:crowd-media/ui-lang-files.git
