@@ -1,8 +1,29 @@
 # Changelog
 
+## v1.0.11 (2022-11-07)
+
+- Fixed video freeze on some IOS 15 devices
+- Fixed double video visual bug on some IOS versions (15 and 16)
+
+## v1.0.10 (2022-10-27)
+
+- Fixed infinite loading screen
+- Throw exception if video not playing after firstclick event
+
+## v1.0.9 (2022-10-03)
+
+- Docker builder
+- Sentry logs
+- mv public into separate repo
+
 ## v1.0.8 (2022-08-30)
 
-- Fixed a bug where the userinput was "default" when sending numbers between 1-3
+- Fixed bug where default would be send if user sends 1-3 and there are no suggestions existing
+- Fixed linux loadup bug
+
+## v1.0.7 (2022-08-24)
+
+- Undid global API class (introduced in version v1.0.3) as it was causing some issues. Changes made in v1.0.4 to v1.0.6 remain
 
 ## v1.0.6 (2022-08-22)
 

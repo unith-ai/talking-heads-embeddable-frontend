@@ -19,7 +19,7 @@ The possible bundle names are:
 
 #### css bundle
 
-This contains the styling of the application. As in the javascript bundle, you can choose to always use the latest version or keep using a version that you like. **Make sure to use the same version in both bundles.**
+This contains the styling of the aplication. As in the javascript bundle, you can choose to always use the latest version or keep using a version that you like. **Make sure to use the same version in both bundles.**
 
 The possible bundle names are:
 
