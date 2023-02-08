@@ -1,9 +1,33 @@
 # Changelog
 
+## v1.2.1 (2023-02-08)
+
+- Update eslint rules
+- Fixed a visual bug in video playback (double video bug)
+- added pre-commit hooks for code quality consistency
+- updated text alignment in user-sent messages
+
+## v1.2.0 (2023-01-25)
+
+- Update and fix eslint rules
+- Replaced momentjs with native browser api
+- Added subtitle settings button
+- Added google analytics
+- Added transitions for suggestion component and subtitle
+- Made suggestions coming from voiceflow appear at the correct time
+
+## v1.1.0 (2022-12-22)
+
+- Fixed visual bugs on iOS
+- Added subtitles as customizable tag in the index.html using `<data-subtitles_enabled>`
+- Changed logo from Crowdmedia to Unith
+- Added green stroke indicating a talking video on defauls screen
+- Hide logo on mobile views
+
 ## v1.0.11 (2022-11-07)
 
-- Fixed video freeze on some IOS 15 devices
-- Fixed double video visual bug on some IOS versions (15 and 16)
+- Fixed video freeze on some iOS 15 devices
+- Fixed double video visual bug on some iOS versions (15 and 16)
 
 ## v1.0.10 (2022-10-27)
 
