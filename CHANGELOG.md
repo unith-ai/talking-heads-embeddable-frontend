@@ -1,6 +1,13 @@
 # Changelog
 
-## v1.2.0 (2023-01-25)
+## v1.2.1 (2023-02-08)
+
+- Update eslint rules
+- Fixed a visual bug in video playback (double video bug)
+- added pre-commit hooks for code quality consistency
+- updated text alignment in user-sent messages
+
+## v1.2.0 (2023-01-25)
 
 - Update and fix eslint rules
 - Replaced momentjs with native browser api

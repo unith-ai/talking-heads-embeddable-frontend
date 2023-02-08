@@ -40,6 +40,14 @@ Then, you will need an html element that will have the id set to `talking-head`.
 
 **Note**: you can replace `latest` with the version of your choice.
 
+#### Google Analytics (GA4)
+
+To add Google Analytics to your website, simply copy and paste the provided tracking
+snippet into the head of your index.thml file. We will then be able to start sending custom events
+to the corresponding Google Analytics property.
+
+For a list of available custom events click [here] (https://gist.github.com/FeaR6077/ece66d085ad3de7be529e13f63c9c09e).
+
 ```html
 <!-- JavasScript bundle -->
 <script defer src="https://talk.crowdmedia.com/bundle/latest.js"></script>
